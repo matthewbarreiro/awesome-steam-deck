@@ -1,0 +1,24 @@
+# TODO.md
+
+- Guides
+  - [ ] EA
+  - [ ] Epic
+  - [ ] GOG
+  - [ ] Uplay
+  - [ ] ?
+- Hardware
+  - [ ] SD Cards
+  - [ ] Screen Protectors
+  - [ ] Cases
+  - [ ] ?
+- Utilities
+  - [ ] ?
+- Resources
+  - [ ] ProtonDB
+  - [ ] ?
+- Windows
+  - [ ] Don't...but:
+  - [ ] Details/guide/etc
+- Other
+  - [ ] Development Resources
+  - [ ] ?

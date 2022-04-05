@@ -23,4 +23,4 @@
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions heavily encouraged! Drop me a line, open an Issue, or open a PR (please just read the [contribution guidelines](contributing.md) first).
