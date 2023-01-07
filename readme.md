@@ -31,6 +31,8 @@
 
 - [Steamdeck-Emulation](https://github.com/nchristopher/steamdeck-emulation) - Guides for setting up individual emulators.
 
+- [Steam deck games fixes](https://github.com/eregnier/steam-deck-games-fixes/) - Tricks with reproductible steps to make specific games working.
+
 ## Further Reading / Sources
 
 - [Awesome GNU/Linux gaming](https://github.com/LinuxCafeFederation/awesome-gnu-linux-gaming)
